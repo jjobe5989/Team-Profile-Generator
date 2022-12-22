@@ -1,4 +1,4 @@
-<h1>Challenge-04 Bootcamp README</h1>
+<h1>Challenge-10 Bootcamp README</h1>
 
 This is my final product for the Tenth challenge given in this bootcamp.
 
@@ -21,6 +21,8 @@ This application is used for creating a simple team profile page inside the comm
 This is a screenshot and link to my walkthrough of my team profile generator.
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/24994854/209036707-dd59ea5a-3f9a-48e3-9858-0050b7e62dd0.png)
+
+Video link: https://youtu.be/XDXvQj9JkXE
 
 
 
