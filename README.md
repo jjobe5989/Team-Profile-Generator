@@ -17,7 +17,7 @@ This application is used for creating a simple team profile page inside the comm
 
 <h1>Pictures and Videos</h1>
 This is a screenshot and link to my walkthrough of my team profile generator.
-![Screenshot (30)](https://user-images.githubusercontent.com/24994854/209036464-12333549-b7e2-405d-9c08-b6c6ad2f1ac0.png)
+-![Screenshot (30)](https://user-images.githubusercontent.com/24994854/209036464-12333549-b7e2-405d-9c08-b6c6ad2f1ac0.png)
 
 
 <h1>Instructions</h1>
