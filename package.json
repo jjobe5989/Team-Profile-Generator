@@ -1,5 +1,1 @@
-{
-  "dependencies": {
-    "inquirer": "^8.2.4"
-  }
-}
+{"name":"Team-Profile-Generator","version":"1.0.0","description":"","main":"index.js","scripts":{"test":"jest"},"dependencies":{"inquirer":"^8.2.5"}}
