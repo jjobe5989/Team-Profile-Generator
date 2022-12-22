@@ -7,10 +7,15 @@ This README contains the following information for the work I have done in this 
 - Description
 
 - Screenshots and Walkthrough Video of the final product:
+- ![Screenshot (30)](https://user-images.githubusercontent.com/24994854/209036464-12333549-b7e2-405d-9c08-b6c6ad2f1ac0.png)
+
 
 - Instructions on use.
 
 <h1>Description</h1>
+This application is used for creating a simple team profile page inside the command prompt. I used Jest, Inquirer, Bootstrap, and more while working on this project. 
+
+<h1>Pictures and Videos</h1>
 
 This is a screenshot and link to my walkthrough of my team profile generator.
 
